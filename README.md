@@ -1,4 +1,5 @@
 #Induce
+
 一、rightfight 
 1. Right（num int）
 - 备注：函数 Right 用于按 << （右移运算符）规则解析 num 返回一个[]int 
